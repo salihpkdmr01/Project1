@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(8,10): error C2065: 'd': undeclared identifier
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,10): error C2065: 'ikinci': undeclared identifier
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,17): error C2146: syntax error: missing ')' before identifier 'sayuiyi'
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,17): error C2146: syntax error: missing ';' before identifier 'sayuiyi'
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,17): error C2065: 'sayuiyi': undeclared identifier
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,25): error C2146: syntax error: missing ';' before identifier 'giriniz'
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,32): error C2059: syntax error: ')'
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(9,25): error C2065: 'giriniz': undeclared identifier
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(10,10): error C2065: 'd': undeclared identifier
+C:\Users\salihpkdmr\source\repos\Project1\Project1\FileName.cpp(12,3): error C2143: syntax error: missing ';' before 'return'
